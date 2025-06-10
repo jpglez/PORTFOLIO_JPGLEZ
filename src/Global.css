@@ -1,0 +1,12 @@
+    select {
+        background-color: #512DA8;
+        color: white;
+        border: 1px solid white;
+        padding: 0.5rem;
+        border-radius: 4px;
+    }
+
+    select option {
+    color: black;
+    background-color: white;
+}
