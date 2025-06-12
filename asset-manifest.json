@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/PORTFOLIO_JPGLEZ/static/css/main.5cc9d9f7.css",
-    "main.js": "/PORTFOLIO_JPGLEZ/static/js/main.0cb23851.js",
+    "main.js": "/PORTFOLIO_JPGLEZ/static/js/main.b2f0f680.js",
     "static/js/919.0afe259b.chunk.js": "/PORTFOLIO_JPGLEZ/static/js/919.0afe259b.chunk.js",
-    "static/media/spain1.jpeg": "/PORTFOLIO_JPGLEZ/static/media/spain1.d1d0f51c29cfb648e0a1.jpeg",
+    "static/media/last.jpeg": "/PORTFOLIO_JPGLEZ/static/media/last.a60f4e36af636b883da4.jpeg",
     "static/media/littlelemon_pic.png": "/PORTFOLIO_JPGLEZ/static/media/littlelemon_pic.cf9679d654bb7fec5180.png",
-    "static/media/hackathon.jpeg": "/PORTFOLIO_JPGLEZ/static/media/hackathon.5bb066630052b445eec0.jpeg",
     "static/media/certificate.jpeg": "/PORTFOLIO_JPGLEZ/static/media/certificate.50e06f7df027da672f30.jpeg",
+    "static/media/cucei.jpeg": "/PORTFOLIO_JPGLEZ/static/media/cucei.cc6ead39b8ddfb512eb0.jpeg",
     "index.html": "/PORTFOLIO_JPGLEZ/index.html",
     "main.5cc9d9f7.css.map": "/PORTFOLIO_JPGLEZ/static/css/main.5cc9d9f7.css.map",
-    "main.0cb23851.js.map": "/PORTFOLIO_JPGLEZ/static/js/main.0cb23851.js.map",
+    "main.b2f0f680.js.map": "/PORTFOLIO_JPGLEZ/static/js/main.b2f0f680.js.map",
     "919.0afe259b.chunk.js.map": "/PORTFOLIO_JPGLEZ/static/js/919.0afe259b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5cc9d9f7.css",
-    "static/js/main.0cb23851.js"
+    "static/js/main.b2f0f680.js"
   ]
 }
