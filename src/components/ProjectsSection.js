@@ -20,13 +20,13 @@ const projects = [
    title: "Hackathon ElecTech 2024B", 
    description: 
      "I participated in a team-based hackathon, where we designed a biometric voting app focused on enhancing security and accessibility during Mexico’s elections. Our app was prototyped in Figma and featured facial recognition technology to verify any voter identity.", 
-   getImageSrc: () => require("../images/hackathon.jpeg"), 
+   getImageSrc: () => require("../images/cucei.jpeg"), 
  }, 
  { 
    title: "Photography Gallery", 
    description: 
      "Photography is one of my favorite creative outlets. I enjoy capturing moments, landscapes, and everyday life through my lens, focusing on composition, lighting, and storytelling.", 
-   getImageSrc: () => require("../images/spain1.jpeg"), 
+   getImageSrc: () => require("../images/last.jpeg"), 
  }, 
 ]; 
  
